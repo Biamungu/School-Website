@@ -2,7 +2,7 @@ import React, { useRef } from 'react'
 import './Testimonials.css'
 import next_icon from "../../assets/next-icon.png"
 import back_icon from "../../assets/back-icon.png"
-import user_1 from "../../assets/user-1.png"
+import user_1 from "../../assets/user-1.jpg"
 import user_2 from "../../assets/user-2.png"
 import user_3 from "../../assets/user-3.png"
 import user_4 from "../../assets/user-4.png"
@@ -37,10 +37,10 @@ const Testimonials = () => {
                 <img src={user_1} alt="user1" />
                 <div>
                   <h3>Nestory Biamungu</h3>
-                  <span>Udusity, USA</span>
+                  <span>Cavendish University, Zambia</span>
                 </div>
               </div>
-              <p>Choosing to pursue my degree at Edusity was one of the bes decision I've ever made.</p>
+              <p>Choosing to pursue my degree at Cavendish was one of the bes decision I've ever made.</p>
             </div>
           </li>
 
@@ -49,11 +49,11 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_2} alt="user2" />
                 <div>
-                  <h3>Nestory Biamungu</h3>
-                  <span>Udusity, USA</span>
+                  <h3>Kalenga Muma</h3>
+                  <span>Cavendish University, Zambia</span>
                 </div>
               </div>
-              <p>Choosing to pursue my degree at Edusity was one of the bes decision I've ever made.</p>
+              <p>Choosing to pursue my degree at Cavendish was one of the bes decision I've ever made.</p>
             </div>
           </li>
 
@@ -62,11 +62,11 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_3} alt="user3" />
                 <div>
-                  <h3>Nestory Biamungu</h3>
-                  <span>Udusity, USA</span>
+                  <h3>Joyce Mutenda</h3>
+                  <span>Cavendish University, Zambia</span>
                 </div>
               </div>
-              <p>Choosing to pursue my degree at Edusity was one of the bes decision I've ever made.</p>
+              <p>Choosing to pursue my degree at Cavendish was one of the bes decision I've ever made.</p>
             </div>
           </li>
 
@@ -75,11 +75,11 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_4} alt="user4" />
                 <div>
-                  <h3>Nestory Biamungu</h3>
-                  <span>Udusity, USA</span>
+                  <h3>Micheal Matanda</h3>
+                  <span>Cavendish University, Zambia</span>
                 </div>
               </div>
-              <p>Choosing to pursue my degree at Edusity was one of the bes decision I've ever made.</p>
+              <p>Choosing to pursue my degree at Cavendish was one of the bes decision I've ever made.</p>
             </div>
           </li>
         </ul>
